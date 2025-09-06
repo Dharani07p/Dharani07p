@@ -64,7 +64,7 @@ Eclipse IDE | Visual Studio Code | Postman | GitHub | Spring Cloud | Eureka Serv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dharanipalanivel/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=google-chrome)](https://dharani07p.github.io/Portfolio/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Dharani-black?style=for-the-badge&logo=github)](https://github.com/Dharani07p)  
-[![Email](https://img.shields.io/badge/Email-pdharrani0907@gaml.com-red?style=for-the-badge&logo=gmail)](mailto:pdharrani0907@gaml.com)  
+[![Email](https://img.shields.io/badge/Email-pdharani0907@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pdharani0907@gmail.com)  
 
 ---
 
